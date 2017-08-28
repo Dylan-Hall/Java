@@ -1,6 +1,13 @@
 # Java
-Projects and programs written in Java
+### author: Dylan Hall
+### date: 8/7/2017
 
+# This is my GitHub Page containing the link to, and descriptions for my portfolio.
+  - This branch is specific for Java, assignments and programs.
+  - This is purely non-distrubtable, their is no licenesed software or distributable code within.
+  - Solely used to display and maintain my portofolio.
+
+### - Description -
   i)      - Data Structures -
     Common data structures written in the Java language.
   
